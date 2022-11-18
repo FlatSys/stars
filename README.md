@@ -14,31 +14,31 @@ Total starred repositories: `5`
 
 ## C#
 
-  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3446) 
+  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3449) 
 
 **[⬆ back to top](#contents)**
 
 ## Dart
 
-  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager \[*GNU GPLv3*\] (⭐️4636) 
+  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced \[*GNU GPLv3*\] (⭐️4662) 
 
 **[⬆ back to top](#contents)**
 
 ## PowerShell
 
-  - [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more. \[*MIT License*\] (⭐️3194) 
+  - [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more. \[*MIT License*\] (⭐️3207) 
 
 **[⬆ back to top](#contents)**
 
 ## Shell
 
-  - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io (⭐️725) 
+  - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io (⭐️726) 
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
-  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️8468) 
+  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️8476) 
 
 **[⬆ back to top](#contents)**
 
