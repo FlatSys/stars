@@ -14,19 +14,19 @@ Total starred repositories: `5`
 
 ## C#
 
-  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3717) 
+  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3725) 
 
 **[⬆ back to top](#contents)**
 
 ## Dart
 
-  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced \[*GNU GPLv3*\] (⭐️6111) 
+  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced \[*GNU GPLv3*\] (⭐️6132) 
 
 **[⬆ back to top](#contents)**
 
 ## PowerShell
 
-  - [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more. \[*MIT License*\] (⭐️4454) 
+  - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more. \[*MIT License*\] (⭐️4485) 
 
 **[⬆ back to top](#contents)**
 
