@@ -1,7 +1,7 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `8`
+Total starred repositories: `9`
 ## Contents
 
   - [Batchfile](#batchfile)
@@ -11,25 +11,26 @@ Total starred repositories: `8`
   - [PowerShell](#powershell)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [Unknown](#unknown)
 
 
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (⭐️25232) 
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (⭐️25274) 
 
 **[⬆ back to top](#contents)**
 
 ## C#
 
-  - [builtbybel/Debloos](https://github.com/builtbybel/Debloos) - Next Gen-Debloat App for Windows 11 \[*MIT License*\] (⭐️143)
-  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3847) 
+  - [builtbybel/Debloos](https://github.com/builtbybel/Debloos) - Next Gen-Debloat App for Windows 11 \[*MIT License*\] (⭐️151)
+  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3848) 
 
 **[⬆ back to top](#contents)**
 
 ## Dart
 
-  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced \[*GNU GPLv3*\] (⭐️6494) 
+  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced \[*GNU GPLv3*\] (⭐️6510) 
 
 **[⬆ back to top](#contents)**
 
@@ -41,19 +42,25 @@ Total starred repositories: `8`
 
 ## PowerShell
 
-  - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. \[*MIT License*\] (⭐️5033) 
+  - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. \[*MIT License*\] (⭐️5065) 
 
 **[⬆ back to top](#contents)**
 
 ## Shell
 
-  - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io (⭐️800) 
+  - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io (⭐️802) 
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
-  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️9226) 
+  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️9240) 
+
+**[⬆ back to top](#contents)**
+
+## Unknown
+
+  - [Yeethan69/AIO](https://github.com/Yeethan69/AIO) - Download and features (⭐️291) 
 
 **[⬆ back to top](#contents)**
 
