@@ -17,20 +17,20 @@ Total starred repositories: `9`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (⭐️25403) 
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (⭐️25472) 
 
 **[⬆ back to top](#contents)**
 
 ## C#
 
-  - [builtbybel/Debloos](https://github.com/builtbybel/Debloos) - Next Gen-Debloat App for Windows 11 \[*MIT License*\] (⭐️164)
-  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3862) 
+  - [builtbybel/Debloos](https://github.com/builtbybel/Debloos) - Next Gen-Debloat App for Windows 11 \[*MIT License*\] (⭐️168)
+  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3865) 
 
 **[⬆ back to top](#contents)**
 
 ## Dart
 
-  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️6555) 
+  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️6572) 
 
 **[⬆ back to top](#contents)**
 
@@ -42,7 +42,7 @@ Total starred repositories: `9`
 
 ## PowerShell
 
-  - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. \[*MIT License*\] (⭐️5122) 
+  - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. \[*MIT License*\] (⭐️5147) 
 
 **[⬆ back to top](#contents)**
 
@@ -54,7 +54,7 @@ Total starred repositories: `9`
 
 ## TypeScript
 
-  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️9259) 
+  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️9273) 
 
 **[⬆ back to top](#contents)**
 
