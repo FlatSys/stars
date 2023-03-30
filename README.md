@@ -17,32 +17,32 @@ Total starred repositories: `10`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (⭐️29817) 
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (⭐️29877) 
 
 **[⬆ back to top](#contents)**
 
 ## C#
 
-  - [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Next Gen-Debloat App for Windows 11 \[*MIT License*\] (⭐️483)
-  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️4141) 
+  - [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Next Gen-Debloat App for Windows 11 \[*MIT License*\] (⭐️486)
+  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️4145) 
 
 **[⬆ back to top](#contents)**
 
 ## Dart
 
-  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️7313) 
+  - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️7331) 
 
 **[⬆ back to top](#contents)**
 
 ## JavaScript
 
-  - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results (⭐️1721) 
+  - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results (⭐️1725) 
 
 **[⬆ back to top](#contents)**
 
 ## PowerShell
 
-  - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. \[*MIT License*\] (⭐️6132) 
+  - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. \[*MIT License*\] (⭐️6152) 
 
 **[⬆ back to top](#contents)**
 
@@ -55,13 +55,13 @@ Total starred repositories: `10`
 
 ## TypeScript
 
-  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️9826) 
+  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️9832) 
 
 **[⬆ back to top](#contents)**
 
 ## Unknown
 
-  - [Yeethan69/AIO](https://github.com/Yeethan69/AIO) - Download and features (⭐️329) 
+  - [Yeethan69/AIO](https://github.com/Yeethan69/AIO) - Download and features (⭐️328) 
 
 **[⬆ back to top](#contents)**
 
