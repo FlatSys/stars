@@ -30,26 +30,26 @@ Total starred repositories: `69`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️153965) 
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️154089) 
 
 **[⬆ back to top](#contents)**
 
 ## C
 
-  - [devkitPro/libctru](https://github.com/devkitPro/libctru) - Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11) (⭐️860)
+  - [devkitPro/libctru](https://github.com/devkitPro/libctru) - Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11) (⭐️861)
   - [t2linux/apple-ib-drv](https://github.com/t2linux/apple-ib-drv) - Apple iBridge devices support (Touchbar/ALS) for MacBook Pro 2018 and onward. \[*GNU GPLv2*\] (⭐️64)
-  - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web. \[*MIT License*\] (⭐️3864) 
+  - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web. \[*MIT License*\] (⭐️3871) 
 
 **[⬆ back to top](#contents)**
 
 ## C#
 
-  - [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem! \[*MIT License*\] (⭐️5470)
+  - [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem! \[*MIT License*\] (⭐️5468)
   - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11 \[*MIT License*\] (⭐️5219) *Archived!*
   - [CallumDickson/Encrypted-Messenger-Application](https://github.com/CallumDickson/Encrypted-Messenger-Application) - Secure C# messaging application and local network server for Windows 7 for uni (⭐️1)
   - [dotnet/ILMerge](https://github.com/dotnet/ILMerge) - ILMerge is a static linker for .NET Assemblies. \[*MIT License*\] (⭐️1298) *Archived!*
-  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API \[*GNU GPLv2*\] (⭐️45087)
-  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube \[*MIT License*\] (⭐️13170)
+  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API \[*GNU GPLv2*\] (⭐️45139)
+  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube \[*MIT License*\] (⭐️13180)
   - [WOA-Project/WOA-Deployer](https://github.com/WOA-Project/WOA-Deployer) - WOA Deployer \[*MIT License*\] (⭐️96) 
 
 **[⬆ back to top](#contents)**
@@ -57,30 +57,30 @@ Total starred repositories: `69`
 ## C++
 
   - [blueboxd/chromium-legacy](https://github.com/blueboxd/chromium-legacy) - Latest Chromium (≒Chrome Canary/Stable) for Mac OS X 10.7+ \[*Modified BSD License*\] (⭐️384)
-  - [cross-platform/icloud-for-linux](https://github.com/cross-platform/icloud-for-linux) - Access all of your favourite iCloud apps from Linux \[*GNU GPLv3*\] (⭐️485) 
+  - [cross-platform/icloud-for-linux](https://github.com/cross-platform/icloud-for-linux) - Access all of your favourite iCloud apps from Linux \[*GNU GPLv3*\] (⭐️486) 
 
 **[⬆ back to top](#contents)**
 
 ## CSS
 
-  - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox \[*MIT License*\] (⭐️450) 
+  - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox \[*MIT License*\] (⭐️449) 
 
 **[⬆ back to top](#contents)**
 
 ## Dart
 
-  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️23990) 
+  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️24005) 
 
 **[⬆ back to top](#contents)**
 
 ## Go
 
-  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️6198)
-  - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 \[*MIT License*\] (⭐️2686)
-  - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. \[*Apache License 2.0*\] (⭐️32189)
-  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️47167)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️66604)
-  - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net \[*MIT License*\] (⭐️721) 
+  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️6199)
+  - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 \[*MIT License*\] (⭐️2688)
+  - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. \[*Apache License 2.0*\] (⭐️32198)
+  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️47191)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️66622)
+  - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net \[*MIT License*\] (⭐️722) 
 
 **[⬆ back to top](#contents)**
 
@@ -93,21 +93,21 @@ Total starred repositories: `69`
 
 ## Java
 
-  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️22931)
+  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️22934)
   - [rmellis/MinecartSpeedPlus](https://github.com/rmellis/MinecartSpeedPlus) - Plugin for bukkit, Spigot and Paper based Minecraft Servers to set specific speeds for minecarts both Dynamically and Globally. \[*Creative Commons Zero v1.0 Universal*\] (⭐️24) 
 
 **[⬆ back to top](#contents)**
 
 ## JavaScript
 
-  - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io) \[*MIT License*\] (⭐️7060)
-  - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser \[*BSD 2-Clause "Simplified" License*\] (⭐️21609)
+  - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io) \[*MIT License*\] (⭐️7058)
+  - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser \[*BSD 2-Clause "Simplified" License*\] (⭐️21612)
   - [dynastic/place](https://github.com/dynastic/place) - An open-source recreation of Reddit's /r/place.  (⭐️333)
-  - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results (⭐️2337)
-  - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface \[*MIT License*\] (⭐️28981)
+  - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results (⭐️2338)
+  - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface \[*MIT License*\] (⭐️28995)
   - [s-macke/jor1k](https://github.com/s-macke/jor1k) - Online OR1K Emulator running Linux \[*BSD 2-Clause "Simplified" License*\] (⭐️1760)
-  - [surbhioberoi/github-widget](https://github.com/surbhioberoi/github-widget) - A widget showing your github details that you can embed in any website. \[*MIT License*\] (⭐️648)
-  - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. (⭐️9269) 
+  - [surbhioberoi/github-widget](https://github.com/surbhioberoi/github-widget) - A widget showing your github details that you can embed in any website. \[*MIT License*\] (⭐️647)
+  - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. (⭐️9270) 
 
 **[⬆ back to top](#contents)**
 
@@ -120,17 +120,17 @@ Total starred repositories: `69`
 ## PowerShell
 
   - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.  \[*MIT License*\] (⭐️3508) *Archived!*
-  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️41963)
+  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️42017)
   - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows. \[*MIT License*\] (⭐️1686)
-  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️15964)
-  - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify \[*MIT License*\] (⭐️18513) 
+  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️15989)
+  - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify \[*MIT License*\] (⭐️18528) 
 
 **[⬆ back to top](#contents)**
 
 ## Python
 
-  - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️16182) *Archived!*
-  - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python \[*GNU GPLv2*\] (⭐️1181)
+  - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️16181) *Archived!*
+  - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python \[*GNU GPLv2*\] (⭐️1183)
   - [hbashton/spotify-ripper](https://github.com/hbashton/spotify-ripper) - https://github.com/jrnewell/spotify-ripper has been revived \[*MIT License*\] (⭐️495)
   - [noops-challenge/fizzbot](https://github.com/noops-challenge/fizzbot) - Fizzbot has questions for you... so many questions. A FizzBuzz API for you to play with. (⭐️45)
   - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games (⭐️1912) 
@@ -152,7 +152,7 @@ Total starred repositories: `69`
 
 ## Shell
 
-  - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM. (⭐️13838)
+  - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM. (⭐️13839)
   - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io (⭐️1380)
   - [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac) - Spotify Ad blocker for MacOS \[*GNU GPLv3*\] (⭐️1528) *Archived!*
   - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors. (⭐️1420)
@@ -168,29 +168,29 @@ Total starred repositories: `69`
 
 ## Swift
 
-  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️31531)
+  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️31537)
   - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift! \[*GNU GPLv3*\] (⭐️2049)
-  - [vanshg/MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS! \[*MIT License*\] (⭐️1612) 
+  - [vanshg/MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS! \[*MIT License*\] (⭐️1611) 
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
-  - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! \[*MIT License*\] (⭐️5331)
-  - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API \[*Apache License 2.0*\] (⭐️26365)
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️342105)
+  - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! \[*MIT License*\] (⭐️5332)
+  - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API \[*Apache License 2.0*\] (⭐️26368)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️342167)
   - [mat-sz/filedrop](https://github.com/mat-sz/filedrop) - 📲 WebRTC E2E encrypted file transfer - React + node.js \[*Clear BSD*\] (⭐️860)
-  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️18670)
-  - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work! \[*GNU AGPLv3*\] (⭐️19646)
-  - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification \[*GNU GPLv3*\] (⭐️11869)
+  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. \[*GNU GPLv3*\] (⭐️18676)
+  - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work! \[*GNU AGPLv3*\] (⭐️19648)
+  - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification \[*GNU GPLv3*\] (⭐️11875)
   - [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Gmail desktop app for macOS, Windows & Linux (formerly Gmail Desktop) \[*GNU AGPLv3*\] (⭐️926) 
 
 **[⬆ back to top](#contents)**
 
 ## Unknown
 
-  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️31515)
-  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️255083)
+  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️31532)
+  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️255235)
   - [c0ders-io/lavamusic](https://github.com/c0ders-io/lavamusic) - lavalink music bot base in lavalink-client and discord.js v14 (⭐️694)
   - [nepaul/awesome-web-development](https://github.com/nepaul/awesome-web-development) - 🧡 A curated list of awesome web development resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️181) 
 
