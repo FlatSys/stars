@@ -25,7 +25,7 @@ Total starred repositories: `34`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️155576) 
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️155735) 
 
 **[⬆ back to top](#contents)**
 
@@ -46,16 +46,16 @@ Total starred repositories: `34`
 
 ## Dart
 
-  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️24219) 
+  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️24234) 
 
 **[⬆ back to top](#contents)**
 
 ## Go
 
   - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️6237)
-  - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. \[*Apache License 2.0*\] (⭐️32316)
-  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️47511)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️66918) 
+  - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. \[*Apache License 2.0*\] (⭐️32320)
+  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️47531)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️66938) 
 
 **[⬆ back to top](#contents)**
 
@@ -81,17 +81,17 @@ Total starred repositories: `34`
 ## PowerShell
 
   - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.  \[*MIT License*\] (⭐️3511) *Archived!*
-  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️42626)
-  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️16368) 
+  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️42670)
+  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️16389) 
 
 **[⬆ back to top](#contents)**
 
 ## Python
 
-  - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️16172) *Archived!*
+  - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️16173) *Archived!*
   - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python \[*GNU GPLv2*\] (⭐️1193)
   - [noops-challenge/fizzbot](https://github.com/noops-challenge/fizzbot) - Fizzbot has questions for you... so many questions. A FizzBuzz API for you to play with. (⭐️45)
-  - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games (⭐️1921) 
+  - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games (⭐️1923) 
 
 **[⬆ back to top](#contents)**
 
@@ -118,21 +118,21 @@ Total starred repositories: `34`
 
 ## Swift
 
-  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️31632) 
+  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️31639) 
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️343334)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️343450)
   - [mat-sz/filedrop](https://github.com/mat-sz/filedrop) - 📲 WebRTC E2E encrypted file transfer - React + node.js \[*Clear BSD*\] (⭐️863) 
 
 **[⬆ back to top](#contents)**
 
 ## Unknown
 
-  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️31698)
-  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️257606)
+  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️31705)
+  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️257827)
   - [nepaul/awesome-web-development](https://github.com/nepaul/awesome-web-development) - 🧡 A curated list of awesome web development resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️182) 
 
 **[⬆ back to top](#contents)**
