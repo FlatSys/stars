@@ -25,37 +25,37 @@ Total starred repositories: `35`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️160076) 
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️160187) 
 
 **[⬆ back to top](#contents)**
 
 ## C
 
-  - [devkitPro/libctru](https://github.com/devkitPro/libctru) - Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11) (⭐️869)
+  - [devkitPro/libctru](https://github.com/devkitPro/libctru) - Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11) (⭐️870)
   - [t2linux/apple-ib-drv](https://github.com/t2linux/apple-ib-drv) - Apple iBridge devices support (Touchbar/ALS) for MacBook Pro 2018 and onward. \[*GNU GPLv2*\] (⭐️68) 
 
 **[⬆ back to top](#contents)**
 
 ## C#
 
-  - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11 \[*MIT License*\] (⭐️5215) *Archived!*
-  - [dotnet/ILMerge](https://github.com/dotnet/ILMerge) - ILMerge is a static linker for .NET Assemblies. \[*MIT License*\] (⭐️1301) *Archived!*
+  - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11 \[*MIT License*\] (⭐️5216) *Archived!*
+  - [dotnet/ILMerge](https://github.com/dotnet/ILMerge) - ILMerge is a static linker for .NET Assemblies. \[*MIT License*\] (⭐️1300) *Archived!*
   - [WOA-Project/WOA-Deployer](https://github.com/WOA-Project/WOA-Deployer) - WOA Deployer \[*MIT License*\] (⭐️96) 
 
 **[⬆ back to top](#contents)**
 
 ## Dart
 
-  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️24828) 
+  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️24837) 
 
 **[⬆ back to top](#contents)**
 
 ## Go
 
-  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️6346)
-  - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. \[*Apache License 2.0*\] (⭐️32672)
-  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️48501)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️67699) 
+  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️6348)
+  - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. \[*Apache License 2.0*\] (⭐️32674)
+  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️48515)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️67708) 
 
 **[⬆ back to top](#contents)**
 
@@ -67,7 +67,7 @@ Total starred repositories: `35`
 
 ## Java
 
-  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️23043) 
+  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️23046) 
 
 **[⬆ back to top](#contents)**
 
@@ -80,16 +80,16 @@ Total starred repositories: `35`
 
 ## PowerShell
 
-  - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.  \[*MIT License*\] (⭐️3510) *Archived!*
-  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️44363)
-  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️17072) 
+  - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.  \[*MIT License*\] (⭐️3509) *Archived!*
+  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️44401)
+  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️17081) 
 
 **[⬆ back to top](#contents)**
 
 ## Python
 
   - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️16144) *Archived!*
-  - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python \[*GNU GPLv2*\] (⭐️1201)
+  - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python \[*GNU GPLv2*\] (⭐️1204)
   - [constantinejc/FiveGuys_CIS1702CW2](https://github.com/constantinejc/FiveGuys_CIS1702CW2) -  (⭐️2)
   - [noops-challenge/fizzbot](https://github.com/noops-challenge/fizzbot) - Fizzbot has questions for you... so many questions. A FizzBuzz API for you to play with. (⭐️44)
   - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games (⭐️1978) 
@@ -106,7 +106,7 @@ Total starred repositories: `35`
 ## Shell
 
   - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io (⭐️1394)
-  - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors. (⭐️1419)
+  - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors. (⭐️1420)
   - [xiagw/winapps](https://github.com/xiagw/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. (⭐️127) 
 
 **[⬆ back to top](#contents)**
@@ -119,21 +119,21 @@ Total starred repositories: `35`
 
 ## Swift
 
-  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️31941) 
+  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️31945) 
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️345851)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️345905)
   - [mat-sz/filedrop](https://github.com/mat-sz/filedrop) - 📲 WebRTC E2E encrypted file transfer - React + node.js \[*Clear BSD*\] (⭐️915) 
 
 **[⬆ back to top](#contents)**
 
 ## Unknown
 
-  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️32142)
-  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️264088)
+  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️32148)
+  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️264210)
   - [nepaul/awesome-web-development](https://github.com/nepaul/awesome-web-development) - 🧡 A curated list of awesome web development resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️183) 
 
 **[⬆ back to top](#contents)**
