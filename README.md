@@ -25,7 +25,7 @@ Total starred repositories: `33`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️166777) 
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️166881) 
 
 **[⬆ back to top](#contents)**
 
@@ -46,15 +46,15 @@ Total starred repositories: `33`
 
 ## Dart
 
-  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️25982) 
+  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️26000) 
 
 **[⬆ back to top](#contents)**
 
 ## Go
 
-  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️6586)
-  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️49839)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️68955) 
+  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️6589)
+  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️49858)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️68973) 
 
 **[⬆ back to top](#contents)**
 
@@ -66,7 +66,7 @@ Total starred repositories: `33`
 
 ## Java
 
-  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️23281) 
+  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️23283) 
 
 **[⬆ back to top](#contents)**
 
@@ -80,15 +80,15 @@ Total starred repositories: `33`
 
 ## PowerShell
 
-  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️47976)
-  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️17887) 
+  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️48043)
+  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️17901) 
 
 **[⬆ back to top](#contents)**
 
 ## Python
 
-  - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️16108) *Archived!*
-  - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python \[*GNU GPLv2*\] (⭐️1227)
+  - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️16107) *Archived!*
+  - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python \[*GNU GPLv2*\] (⭐️1228)
   - [constantinejc/FiveGuys_CIS1702CW2](https://github.com/constantinejc/FiveGuys_CIS1702CW2) -  \[*GNU GPLv3*\] (⭐️4)
   - [noops-challenge/fizzbot](https://github.com/noops-challenge/fizzbot) - Fizzbot has questions for you... so many questions. A FizzBuzz API for you to play with. (⭐️44)
   - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games (⭐️2017) 
@@ -111,27 +111,27 @@ Total starred repositories: `33`
 
 ## Svelte
 
-  - [EmeraldSnorlax/manjarno](https://github.com/EmeraldSnorlax/manjarno) - Why you shouldn't use Manjaro \[*Modified BSD License*\] (⭐️129) 
+  - [EmeraldSnorlax/manjarno](https://github.com/EmeraldSnorlax/manjarno) - Why you shouldn't use Manjaro \[*Modified BSD License*\] (⭐️132) 
 
 **[⬆ back to top](#contents)**
 
 ## Swift
 
-  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️32498) 
+  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️32506) 
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️349678)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️349726)
   - [mat-sz/filedrop](https://github.com/mat-sz/filedrop) - 📲 WebRTC E2E encrypted file transfer - React + node.js \[*Clear BSD*\] (⭐️929) 
 
 **[⬆ back to top](#contents)**
 
 ## Unknown
 
-  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️32892)
-  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️274816)
+  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️32922)
+  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️274965)
   - [nepaul/awesome-web-development](https://github.com/nepaul/awesome-web-development) - 🧡 A curated list of awesome web development resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️188) 
 
 **[⬆ back to top](#contents)**
