@@ -25,13 +25,13 @@ Total starred repositories: `33`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️167600) 
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️167708) 
 
 **[⬆ back to top](#contents)**
 
 ## C
 
-  - [devkitPro/libctru](https://github.com/devkitPro/libctru) - Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11) (⭐️895)
+  - [devkitPro/libctru](https://github.com/devkitPro/libctru) - Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11) (⭐️894)
   - [t2linux/apple-ib-drv](https://github.com/t2linux/apple-ib-drv) - Apple iBridge devices support (Touchbar/ALS) for MacBook Pro 2018 and onward. \[*GNU GPLv2*\] (⭐️69) 
 
 **[⬆ back to top](#contents)**
@@ -39,22 +39,22 @@ Total starred repositories: `33`
 ## C#
 
   - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11 \[*MIT License*\] (⭐️5213) *Archived!*
-  - [dotnet/ILMerge](https://github.com/dotnet/ILMerge) - ILMerge is a static linker for .NET Assemblies. \[*MIT License*\] (⭐️1304) *Archived!*
+  - [dotnet/ILMerge](https://github.com/dotnet/ILMerge) - ILMerge is a static linker for .NET Assemblies. \[*MIT License*\] (⭐️1305) *Archived!*
   - [WOA-Project/WOA-Deployer](https://github.com/WOA-Project/WOA-Deployer) - WOA Deployer \[*MIT License*\] (⭐️96) 
 
 **[⬆ back to top](#contents)**
 
 ## Dart
 
-  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️26121) 
+  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️26141) 
 
 **[⬆ back to top](#contents)**
 
 ## Go
 
-  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️6619)
-  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️49959)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️69111) 
+  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️6626)
+  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️49976)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️69141) 
 
 **[⬆ back to top](#contents)**
 
@@ -80,8 +80,8 @@ Total starred repositories: `33`
 
 ## PowerShell
 
-  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️48505)
-  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️17970) 
+  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️48551)
+  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️17977) 
 
 **[⬆ back to top](#contents)**
 
@@ -117,21 +117,21 @@ Total starred repositories: `33`
 
 ## Swift
 
-  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️32566) 
+  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️32581) 
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️350091)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️350197)
   - [mat-sz/filedrop](https://github.com/mat-sz/filedrop) - 📲 WebRTC E2E encrypted file transfer - React + node.js \[*Clear BSD*\] (⭐️931) 
 
 **[⬆ back to top](#contents)**
 
 ## Unknown
 
-  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️33072)
-  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️276380)
+  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️33088)
+  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️276882)
   - [nepaul/awesome-web-development](https://github.com/nepaul/awesome-web-development) - 🧡 A curated list of awesome web development resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️189) 
 
 **[⬆ back to top](#contents)**
