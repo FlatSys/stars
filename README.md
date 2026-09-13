@@ -25,20 +25,20 @@ Total starred repositories: `33`
 
 ## Batchfile
 
-  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️190260) 
+  - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. \[*GNU GPLv3*\] (⭐️190385) 
 
 **[⬆ back to top](#contents)**
 
 ## C
 
   - [devkitPro/libctru](https://github.com/devkitPro/libctru) - Homebrew development library for Nintendo 3DS/Horizon OS user mode (Arm11) (⭐️959)
-  - [t2linux/apple-ib-drv](https://github.com/t2linux/apple-ib-drv) - Apple iBridge devices support (Touchbar/ALS) for MacBook Pro 2018 and onward. \[*GNU GPLv2*\] (⭐️74) 
+  - [t2linux/apple-ib-drv](https://github.com/t2linux/apple-ib-drv) - Apple iBridge devices support (Touchbar/ALS) for MacBook Pro 2018 and onward. \[*GNU GPLv2*\] (⭐️73) 
 
 **[⬆ back to top](#contents)**
 
 ## C#
 
-  - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11 \[*MIT License*\] (⭐️5183) *Archived!*
+  - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11 \[*MIT License*\] (⭐️5184) *Archived!*
   - [dotnet/ILMerge](https://github.com/dotnet/ILMerge) - ILMerge is a static linker for .NET Assemblies. \[*MIT License*\] (⭐️1306) *Archived!*
   - [WOA-Project/WOA-Deployer](https://github.com/WOA-Project/WOA-Deployer) - WOA Deployer \[*MIT License*\] (⭐️93) 
 
@@ -46,9 +46,9 @@ Total starred repositories: `33`
 
 ## Go
 
-  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️7165)
-  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️52797)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️71907) 
+  - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ \[*MIT License*\] (⭐️7166)
+  - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker \[*MIT License*\] (⭐️52809)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️71954) 
 
 **[⬆ back to top](#contents)**
 
@@ -60,7 +60,7 @@ Total starred repositories: `33`
 
 ## Java
 
-  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️23854) 
+  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️23855) 
 
 **[⬆ back to top](#contents)**
 
@@ -74,14 +74,14 @@ Total starred repositories: `33`
 
 ## Kotlin
 
-  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️29437) 
+  - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  \[*GNU GPLv3*\] (⭐️29461) 
 
 **[⬆ back to top](#contents)**
 
 ## PowerShell
 
-  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️62454)
-  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️19574) 
+  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️62498)
+  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️19579) 
 
 **[⬆ back to top](#contents)**
 
@@ -90,7 +90,7 @@ Total starred repositories: `33`
   - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️15973) *Archived!*
   - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python \[*GNU GPLv2*\] (⭐️1251)
   - [noops-challenge/fizzbot](https://github.com/noops-challenge/fizzbot) - Fizzbot has questions for you... so many questions. A FizzBuzz API for you to play with. (⭐️43)
-  - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games (⭐️3105)
+  - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games (⭐️3114)
   - [rollrkostr/FiveGuys_CIS1702CW2](https://github.com/rollrkostr/FiveGuys_CIS1702CW2) -  \[*GNU GPLv3*\] (⭐️4) 
 
 **[⬆ back to top](#contents)**
@@ -103,8 +103,8 @@ Total starred repositories: `33`
 
 ## Shell
 
-  - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io (⭐️1411)
-  - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors. (⭐️1427)
+  - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io (⭐️1410)
+  - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors. (⭐️1428)
   - [xiagw/winapps](https://github.com/xiagw/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. (⭐️131) 
 
 **[⬆ back to top](#contents)**
@@ -117,21 +117,21 @@ Total starred repositories: `33`
 
 ## Swift
 
-  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️34154) 
+  - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. \[*MIT License*\] (⭐️34159) 
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
   - [mat-sz/filedrop](https://github.com/mat-sz/filedrop) - 📲 WebRTC E2E encrypted file transfer - React + node.js \[*Clear BSD*\] (⭐️962)
-  - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️366942) 
+  - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️367012) 
 
 **[⬆ back to top](#contents)**
 
 ## Unknown
 
-  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️35124)
-  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️318649)
+  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️35133)
+  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️318878)
   - [nepaul/awesome-web-development](https://github.com/nepaul/awesome-web-development) - 🧡 A curated list of awesome web development resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️201) 
 
 **[⬆ back to top](#contents)**
